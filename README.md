@@ -2,9 +2,9 @@
 <br />
 
 <br />
-<p align="left"><b>I am a Junior Full Stack Dev from Italy.</b><br/><br/>I enjoy coding anything that comes up to my mind (some codes works some doesn’t, it’s just the beginning, nothing to be ashamed of).<br/>I believe that the ingredients to become a better Web Developer are always moving forward to progress, a lot of practice, eager to know or learn something new and an incredible problem solving skill.<br/><br/>With my creative mind I like taking up complex problems and turning them into simple and stunning interface designs.<br/>I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, JavaScript and Java.<br />
+<p align="left"><b>I am a Junior Full Stack Dev from Italy.</b><br/><br/>I enjoy coding anything that comes up to my mind (some codes work some don't, it’s just the beginning, nothing to be ashamed of).<br/>I believe that the ingredients to become a better Web Developer are always moving forward to progress, keeping up to date with new technologies, a lot of practice, eager to know and learn something new and an incredible problem solving skill.<br/><br/>With my creative mind I like taking up complex problems and turning them into simple and stunning interface designs.<br/>I also love the logic and structure of coding and always strive to write elegant and efficient codes.<br />
 <img align="right" src="https://user-images.githubusercontent.com/117380515/232107093-430f109b-d3bf-4bf6-af99-1a2fce4e67fe.png"/>
-<br/>I have 6 months of experience in Full Stack Web Dev, I studied @ Digitazon Tech School in Milano. <br/>Anyhow I have 4 years experience in a IT company in Italy as Form & Web Designer.<br/>My task was designing and testing Bank contracts using a software owned by Beyond S.r.l. I used to keep in touch with Dev team, DevOps team and Scrum Team.<br/>I’m glad to say that this experience made me passionate about IT industry and I wanted to go deeper. So here I am, thanks for reading my Github intro, I hope you will enjoy my profile ad my projects!<br/><br/>I’m definitely open to any helpful suggestions and collaborations.<br /><br />
+<br/>I have 6 months of experience in studying Full Stack Web Dev @ Digitazon Tech School in Milano. <br/>Anyhow I have 4 years experience in an IT company in Italy as Form & Web Designer.<br/>My task was designing and testing Bank contracts using a software owned by BeyonDoc S.r.l. I used to keep in touch with clients, Dev team, DevOps team and Scrum Team.<br/>I’m glad to say that this experience made me passionate about IT industry and I wanted to go deeper. So here I am, thanks for reading my Github intro, I hope you will enjoy my profile ad my projects!<br/><br/>I’m definitely open to any helpful suggestions, tips and collaborations!<br /><br />
 
  <b>💬 Ask me anything about:<br />
  🖥️ Programming<br />
@@ -14,7 +14,9 @@
  🎼 Music<br /><b></b><br/>
 ## 📊 **GITHUB STATS**
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewdevwild&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andrewdevwild&theme=synthwave&layout=compact)](https://github.com/andrewdevwild/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andrewdevwild&theme=synthwave&layout=compact)](https://github.com/andrewdevwild/github-readme-stats)<br /><br />
+![](https://img.shields.io/github/followers/andrewdevwild?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
+![](https://komarev.com/ghpvc/?username=andrewdevwild&color=brightgreen&style=for-the-badge)
 <br />
 <br />
 
@@ -48,41 +50,50 @@
 [![Apache Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white "Apache Maven")][repo]
 <br />
 <br />
-   
+## 📈 **MY NEXT SKILLS 🔜**
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue "Python")
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white "Flutter")
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white "Dart")
+![RubyOnRails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white "Ruby on Rails")
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white "Ruby")
+![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black "Solidity")
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white "Docker")
+<br />
+<br />
 ## 📅 **DATABASES**
-[![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white "MySql")][repo]
+![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white "MySql")
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white "PostgreSQL")][repo]
-[![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white "XAMPP")][repo]
+![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white "XAMPP")
 <br />
 <br />
    
 ## 🛠️ **VERSIONING AND TESTING TOOLS**
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")][repo]
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")][repo]
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman")][repo]
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white "Git")
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white "Postman")][pst]
 <br />
 <br />
    
 ## 📄 **CODE EDITOR & IDES**
-[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
-[![IntellJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white "IntellJ")][repo]
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")
+![IntellJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white "IntellJ")
 <br />
 <br />
    
 ## 💻 **SOFTWARES**
-[![MicrosoftExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white "Microsoft Excel")][repo]
-[![MicrosoftPowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white "Microsoft PowerPoint")][repo]
-[![MicrosoftWord](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white "Microsoft Word")][repo]
-[![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white "Trello")][repo]
-[![SpringSecurity](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white "Spring Security")][repo]
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white "Jira")][repo]
+![MicrosoftExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white "Microsoft Excel")
+![MicrosoftPowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white "Microsoft PowerPoint")
+![MicrosoftWord](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white "Microsoft Word")
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white "Trello")
+![SpringSecurity](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white "Spring Security")
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white "Jira")
 <br />
 <br />
    
 ## 🪄 **DESIGN TOOLS**
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white "Canva")][repo]
-[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)][repo]
-[![FontAwesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)][repo]
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white "Canva")
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+[![FontAwesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)][ftw]
 <br />
 <br />
 
@@ -92,15 +103,14 @@
 <br />
 
 ## 🌐 **WEB BROWSERS**
-[![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white "Brave")][repo]
-[![TorBrowser](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white "Tor")][repo]
-[![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white "DuckDuckGo")][repo]
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white "Brave")
+![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white "DuckDuckGo")
 <br />
 <br />
 
 ## ⭕ **OPERATING SYSTEMS**
-[![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white "Mac OS")][repo]
-[![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white "IOS")][repo]
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white "Mac OS")
+![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white "IOS")
 <br />
 <br />
 
@@ -122,9 +132,9 @@
 <br />
 
 ## 👾 **SOCIALS**
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white "Discord")][repo]
-[![GoogleMeet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white "Google Meet")][repo]
-[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white "Zoom")][repo]
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white "Discord")
+![GoogleMeet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white "Google Meet")
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white "Zoom")
 <br />
 <br />
 
@@ -148,4 +158,6 @@
 [cnj]: https://www.codingninja.com
 [spo]: https://www.spotify.com
 [rdt]: https://www.reddit.com
+[pst]: https://www.postman.com/
+[ftw]: https://fontawesome.com/
 <hr />
