@@ -14,7 +14,6 @@
  🎼 Music<br /><b></b><br/>
 ## 📊 **GITHUB STATS**
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewdevwild&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewdevwild&langs_count=10&layout=compact)](https://github.com/andrewdevwild/github-readme-stats)<br /><br />
 ![](https://img.shields.io/github/followers/andrewdevwild?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
 ![](https://komarev.com/ghpvc/?username=andrewdevwild&color=brightgreen&style=for-the-badge)
 <br />
